@@ -79,8 +79,8 @@ The full step-by-step setup documentation is in `/docs/setup-guide.docx`. It cov
 
 ## Lab Walkthroughs
 
-- [`labs/lab1-fim.md`](labs/lab1-fim.md) — File Integrity Monitoring setup and testing
-- [`labs/lab2-bruteforce.md`](labs/lab2-bruteforce.md) — SSH brute force simulation and detection
+- [`labs/lab1-fim.md`](labs./lab1-fim.md) — File Integrity Monitoring setup and testing
+- [`labs/lab2-bruteforce.md`](labs./lab2-bruteforce.md) — SSH brute force simulation and detection
 
 ---
 
